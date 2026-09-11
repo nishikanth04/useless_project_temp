@@ -1,0 +1,9 @@
+{
+  "name": "com.voice.volume.controller",
+  "description": "Native Volume Host Controller for Chrome",
+  "path": "C:\\Users\\NISHI\\OneDrive\\Desktop\\nishi\\voice-volume-system\\native-host\\volume_host.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension:lhbjhhnopcaeedadhjcblpjhmlnegigb"
+  ]
+}
