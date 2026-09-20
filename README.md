@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b6a4f78e-bece-4a7b-a010-3882776c5b96" alt="Useless Projects 3.0 Banner" width="100%">
+
 
 # YELL 🎯
 
